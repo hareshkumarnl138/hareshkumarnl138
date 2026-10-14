@@ -8,7 +8,7 @@ Designed to be clear, distinctive, and easy to maintain.
 <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0B1020,45:123B65,100:16C7B7&text=HARESH%20KUMAR%20N%20L&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20BUILDING%20WITH%20PURPOSE&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Haresh Kumar N L — AI and ML developer"/>
 
 <a href="https://github.com/hareshkumarnl138"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/haresh-kumar-n-l/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/haresh-kumar-n-l/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/hareshkumarnl138?tab=repositories"><img src="https://img.shields.io/badge/Projects-Browse%20repositories-0F766E?style=for-the-badge&logo=git&logoColor=white" alt="Projects"/></a>
 
 <br/>
