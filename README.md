@@ -29,7 +29,7 @@ Original terminal-inspired GitHub profile. Keep claims and project details up to
 
 </div>
 
-## `01 // SYSTEM PROFILE`
+## SYSTEM PROFILE
 
 ```yaml
 name: Haresh Kumar N L
@@ -48,7 +48,7 @@ engineering_principles:
 
 I enjoy working at the intersection of **AI research and software development** — preparing data, testing models, measuring outcomes, and building applications around useful ideas. My repositories document projects as they evolve; the code and project READMEs are the source of truth for implementation details.
 
-## `02 // FEATURED BUILDS`
+## FEATURED BUILDS
 
 <div align="center">
 
@@ -68,7 +68,7 @@ I enjoy working at the intersection of **AI research and software development** 
 | [SkillLens](https://github.com/hareshkumarnl138/skilllens-student-placement-intelligence) | Student placement intelligence | Product development |
 | [CodeAlpha Tasks](https://github.com/hareshkumarnl138/codealpha_tasks) | Applied ML task implementations, including credit scoring | Python · ML |
 
-## `03 // TECH STACK`
+## TECH STACK
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I enjoy working at the intersection of **AI research and software development** 
 
 <sub>Technology icons are a visual index, not a claim of equal proficiency in every tool. Check individual repositories for actual usage.</sub>
 
-## `04 // ENGINEERING WORKFLOW`
+## ENGINEERING WORKFLOW
 
 ```text
 DEFINE  →  PREPARE  →  BUILD  →  EVALUATE  →  DOCUMENT  →  ITERATE
@@ -97,7 +97,7 @@ DEFINE  →  PREPARE  →  BUILD  →  EVALUATE  →  DOCUMENT  →  ITERATE
 
 I aim to make projects easier to understand and run: clear problem statements, sensible structure, reproducible setup steps, honest evaluation, and documented limitations.
 
-## `05 // GITHUB TELEMETRY`
+## GITHUB TELEMETRY
 
 <div align="center">
 
@@ -110,13 +110,13 @@ I aim to make projects easier to understand and run: clear problem statements, s
 
 <sub>Third-party statistics may load slowly or be unavailable. Language charts describe code present in repositories, not skill level.</sub>
 
-## `06 // CONNECT`
+## CONNECT
 
 <div align="center">
 
 **Have an interesting problem or want to build something together?**
 
-<a href="https://www.linkedin.com/in/haresh-kumar-n-l/"><img src="https://img.shields.io/badge/LET'S_CONNECT-0E7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/haresh-kumar-n-l/"><img src="https://img.shields.io/badge/CONNECT-0E7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="https://github.com/hareshkumarnl138?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore repositories"/></a>
 
 *Stay curious. Ship thoughtfully. Keep improving.*
