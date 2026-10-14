@@ -50,12 +50,36 @@ I enjoy working at the intersection of **AI research and software development** 
 
 ## FEATURED BUILDS
 
+The cards below are written for this profile rather than pulled from repository metadata, so project names stay readable and descriptions remain under your control.
+
 <div align="center">
 
-<a href="https://github.com/hareshkumarnl138/Autoencoder-Based-Deep-Learning-Framework-for-Network-Intrusion-and-Anomaly-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hareshkumarnl138&repo=Autoencoder-Based-Deep-Learning-Framework-for-Network-Intrusion-and-Anomaly-Detection&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="Network anomaly detection project"/></a>
-<a href="https://github.com/hareshkumarnl138/R-PROGRAMMING-BASED-STUDENT-EMPLOYABILITY-ANALYTICS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hareshkumarnl138&repo=R-PROGRAMMING-BASED-STUDENT-EMPLOYABILITY-ANALYTICS&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="Student employability analytics project"/></a>
-<a href="https://github.com/hareshkumarnl138/PayDawg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hareshkumarnl138&repo=PayDawg&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="PayDawg project"/></a>
-<a href="https://github.com/hareshkumarnl138/AR-Organics-AI-Powered-Smart-Agriculture-and-Crop-Productivity-Enhancement-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hareshkumarnl138&repo=AR-Organics-AI-Powered-Smart-Agriculture-and-Crop-Productivity-Enhancement-Platform&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="AR Organics project"/></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hareshkumarnl138/Autoencoder-Based-Deep-Learning-Framework-for-Network-Intrusion-and-Anomaly-Detection">Network Intrusion &amp; Anomaly Detection</a></h3>
+      <p>Explore an autoencoder-based deep-learning approach to identifying unusual network activity.</p>
+      <sub>PYTHON · DEEP LEARNING · CYBERSECURITY</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hareshkumarnl138/R-PROGRAMMING-BASED-STUDENT-EMPLOYABILITY-ANALYTICS">Student Employability Analytics</a></h3>
+      <p>Analyze student placement data through data preparation, statistical exploration, and predictive modelling.</p>
+      <sub>R · DATA ANALYTICS · MACHINE LEARNING</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hareshkumarnl138/PayDawg">PayDawg</a></h3>
+      <p>A payment-screening API project built around a PayPal sandbox workflow.</p>
+      <sub>PYTHON · FASTAPI · SQLITE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hareshkumarnl138/AR-Organics-AI-Powered-Smart-Agriculture-and-Crop-Productivity-Enhancement-Platform">AR Organics</a></h3>
+      <p>An AI-powered smart-agriculture and crop-productivity project.</p>
+      <sub>APPLIED AI · SMART AGRICULTURE</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
