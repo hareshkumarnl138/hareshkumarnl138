@@ -63,10 +63,10 @@ I enjoy working at the intersection of **AI research and software development** 
 |---|---|---|
 | [Network Intrusion & Anomaly Detection](https://github.com/hareshkumarnl138/Autoencoder-Based-Deep-Learning-Framework-for-Network-Intrusion-and-Anomaly-Detection) | Detecting unusual network behaviour with an autoencoder-based approach | Deep Learning · Security |
 | [Student Employability Analytics](https://github.com/hareshkumarnl138/R-PROGRAMMING-BASED-STUDENT-EMPLOYABILITY-ANALYTICS) | Placement analysis and predictive modelling workflows | R · Analytics · ML |
-| [PayDawg](https://github.com/hareshkumarnl138/PayDawg) | Payment screening and PayPal sandbox API workflow | Python · FastAPI · SQLite |
-| [CodeAlpha Tasks](https://github.com/hareshkumarnl138/codealpha_tasks) | Applied ML task implementations, including credit-scoring model work | Python · Machine Learning |
 | [SkillLens](https://github.com/hareshkumarnl138/skilllens-student-placement-intelligence) | Student placement intelligence | Product development |
 | [SocialBridge](https://github.com/hareshkumarnl138/SocialBridge) | Social platform project; see repository for current scope and implementation | Software Development |
+| [PayDawg](https://github.com/hareshkumarnl138/PayDawg) | Payment screening and PayPal sandbox API workflow | Python · FastAPI · SQLite |
+| [CodeAlpha Tasks](https://github.com/hareshkumarnl138/codealpha_tasks) | Applied ML task implementations, including credit-scoring model work | Python · Machine Learning |
 
 ## TECH STACK
 
