@@ -66,6 +66,7 @@ I enjoy working at the intersection of **AI research and software development** 
 | [PayDawg](https://github.com/hareshkumarnl138/PayDawg) | Payment screening and PayPal sandbox API workflow | Python · FastAPI · SQLite |
 | [CodeAlpha Tasks](https://github.com/hareshkumarnl138/codealpha_tasks) | Applied ML task implementations, including credit-scoring model work | Python · Machine Learning |
 | [SkillLens](https://github.com/hareshkumarnl138/skilllens-student-placement-intelligence) | Student placement intelligence | Product development |
+| [SocialBridge](https://github.com/hareshkumarnl138/SocialBridge) | Social platform project; see repository for current scope and implementation | Software Development |
 
 ## TECH STACK
 
