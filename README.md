@@ -32,14 +32,14 @@ Original terminal-inspired GitHub profile. Keep claims and project details up to
 ## SYSTEM PROFILE
 
 ```yaml
-name: Haresh Kumar N L
-role: B.Tech student — Artificial Intelligence & Machine Learning
-interests:
+Name: Haresh Kumar N L
+Role: B.Tech student — Artificial Intelligence & Machine Learning
+Interests:
   - Machine Learning and Deep Learning
   - Computer Vision and Image Analysis
   - Predictive Analytics and Data Science
   - Backend APIs and practical AI applications
-engineering_principles:
+Engineering Principles:
   - Build for a real problem
   - Evaluate with evidence
   - Document so others can reproduce it
