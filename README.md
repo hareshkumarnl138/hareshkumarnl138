@@ -101,7 +101,7 @@ I aim to make projects easier to understand and run: clear problem statements, s
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hareshkumarnl138&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hareshkumarnl138&theme=github_dark" alt="GitHub statistics summary card"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareshkumarnl138&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3" alt="Language statistics"/>
 
 <img width="85%" src="https://streak-stats.demolab.com?user=hareshkumarnl138&hide_border=true&background=0D1117&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=9CA3AF" alt="Contribution streak"/>
